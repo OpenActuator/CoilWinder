@@ -2,7 +2,6 @@
 
 This is a Small Coil Winder Project.
 
-<font size="2">
 1. Structures
  - Coil winder : Arduino Nano, Motors
  - Control SW : PC Software (GUI, Communication)
@@ -23,7 +22,6 @@ This is a Small Coil Winder Project.
  - Rotating Motor is not enough power to rotate a coil.
  - Guide Stage can't use because of centering and frictional force about a guide rotator.
  - To need making a control software only for this winder. 
-</font>
  
 Youtube Video : https://youtu.be/hM2LF0jpD0Y
 <br><br>
