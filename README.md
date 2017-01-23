@@ -1,4 +1,4 @@
-# myCoilWinder
+# gtCoilWinder
 
 This is a Small Coil Winder Project.
 
