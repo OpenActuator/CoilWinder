@@ -7,12 +7,12 @@ This is a Small Coil Winder Project.
  - Control SW : PC Software (GUI, Communication)
  - Communication : RS232C Serial Communication (suppored arduino)
 
-2. Machine Parts
+2. Mechanical Parts
  - All structure parts were made by 3D Printer
  - You can get the structure parts in the "3D Design" directory.
  - The sturcutre parts were designed by FreeCAD (http://www.freecadweb.org).
 
-3. Eletronic Parts
+3. Electronical Parts
  - Arduino Nano
  - Rotating Motor : KHL35LL16J, UNL2003
  - Slider Motor : Slider Motor, L9110 H-bridge
@@ -27,4 +27,4 @@ Youtube Video : https://youtu.be/hM2LF0jpD0Y
 <br><br>
 Detail Information : http://openactuator.org
 <br><br>
-<img src="http://www.solenoid.or.kr/data/coilwinder.png" border="0" alt="">
+<img src="http://www.solenoid.or.kr/data/CoilWinder.png" border="0" alt="">
