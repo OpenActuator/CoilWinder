@@ -40,13 +40,8 @@ int nCountOfStep;
 int nCountOfLayers;
 float fWindingErrorSum;
 
-<<<<<<< HEAD:01 Arduino Code/OpenCoilWinder.ino
-Stepper stepperWinder(WINDER_MOTOR_STEPS, 8, 9, 10, 11);
-Stepper stepperSilder(SLIDER_MOTOR_STEPS, 4, 5, 6, 7);
-=======
 Stepper stepperWinder(WINDER_MOTOR_STEPS, 9, 10, 11, 12);
 Stepper stepperSilder(SLIDER_MOTOR_STEPS, 5, 6, 7, 8);
->>>>>>> 7a55db65aff3266329231f5d31856d7b8a7f23cf:OpenCoilWinder.ino
 
 void setup()
 {
@@ -58,25 +53,16 @@ void setup()
     ; // wait for serial port to connect. Needed for native USB port only
   }
 
-<<<<<<< HEAD:01 Arduino Code/OpenCoilWinder.ino
-  // set the speed of the motor to 30 RPMs
   stepperSilder.setSpeed(200);
-  stepperWinder.setSpeed(200);
 
-=======
->>>>>>> 7a55db65aff3266329231f5d31856d7b8a7f23cf:OpenCoilWinder.ino
   fCoilHeight = 2;
   iTurnsPerOneLayer = 20;
   iLayers = 2;
   iWindingSpeed = 200;       // This speed is RPM of the winder motor
 
-<<<<<<< HEAD:01 Arduino Code/OpenCoilWinder.ino
-=======
-  // set the speed of the motor to 30 RPMs
-  stepperSilder.setSpeed(iWindingSpeed);
+  // set the speed of the motor
   stepperWinder.setSpeed(iWindingSpeed);
 
->>>>>>> 7a55db65aff3266329231f5d31856d7b8a7f23cf:OpenCoilWinder.ino
   // To Initialize variables
   iWindingCount = 0;
   fWindingError = 0;
@@ -356,8 +342,4 @@ void loop() {
   
 }
 
-<<<<<<< HEAD:01 Arduino Code/OpenCoilWinder.ino
 
-=======
-
->>>>>>> 7a55db65aff3266329231f5d31856d7b8a7f23cf:OpenCoilWinder.ino
