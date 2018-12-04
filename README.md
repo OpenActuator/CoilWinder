@@ -1,4 +1,4 @@
-# OpenCoilWinder
+# OpenCoilWinder (Ver 1.0)
 
 This is a Small Coil Winder Project.
 
