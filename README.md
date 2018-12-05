@@ -1,4 +1,4 @@
-# OpenCoilWinder (Version 1.0)
+# OpenCoilWinder (Version 1.2)
 
 This is a Small Coil Winder Project.
 
@@ -14,7 +14,7 @@ This is a Small Coil Winder Project.
 
 3. Electronical Parts
  - Arduino Nano
- - Rotating Motor : KHL35LL16J, UNL2003
+ - Rotating Motor : 17HS2408, L9110 H-bridge
  - Slider Motor : Slider Motor, L9110 H-bridge
  - DC-DC Down Convertor : LM2596
 
@@ -27,4 +27,4 @@ Youtube Video : https://youtu.be/hM2LF0jpD0Y
 <br><br>
 Detail Information : http://openactuator.org
 <br><br>
-<img src="http://www.solenoid.or.kr/data/CoilWinder.png" border="0" alt="">
+<img src="http://www.solenoid.or.kr/data/CoilWinder_V1.2.jpg" border="0" alt="">
