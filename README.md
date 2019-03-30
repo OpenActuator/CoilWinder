@@ -27,4 +27,4 @@ Youtube Video : https://youtu.be/hM2LF0jpD0Y
 <br><br>
 Detail Information : http://openactuator.org
 <br><br>
-<img src="http://www.solenoid.or.kr/data/CoilWinder_V1.2.jpg" border="0" alt="">
+<img src="http://www.solenoid.or.kr/openactuator/OpenCoilWinder/CoilWinder_V1.2.jpg" border="0" alt="">
