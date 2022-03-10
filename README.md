@@ -23,10 +23,10 @@ This is a Small Coil Winder Project.
  - Guide Stage can't use because of centering and frictional force about a guide rotator.
  - To need making a control software only for this winder. 
  
-Youtube Video : https://youtu.be/hM2LF0jpD0Y
+5. Youtube Video : https://youtu.be/hM2LF0jpD0Y
 <br><br>
-Detail Information
- - English : <a href="https://solenoid.or.kr/direct_eng.php?address=https://solenoid.or.kr/openactuator/open_coil_winder_eng.htm">Open Source Coil Winder Homepage Link (English)</a><br>
+6. Detail Information
+ - English : <a href="https://solenoid.or.kr/direct_eng.php?address=https://solenoid.or.kr/openactuator/open_coil_winder_eng.htm">Open Source Coil Winder Homepage Link (English)</a>
  - Korean  : <a href="https://solenoid.or.kr/direct_kor.php?address=https://solenoid.or.kr/openactuator/open_coil_winder_kor.htm">Open Source Coil Winder Homepage Link (Korean)</a>
 <br><br>
 <img src="https://www.solenoid.or.kr/openactuator/OpenCoilWinder/CoilWinder_V1.2.jpg" border="0" alt="">
