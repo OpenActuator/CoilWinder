@@ -26,7 +26,7 @@ This is a Small Coil Winder Project.
 Youtube Video : https://youtu.be/hM2LF0jpD0Y
 <br><br>
 Detail Information
-  - English : https://solenoid.or.kr/direct/index_coilwinder_eng.html
-  - Korean  : https://solenoid.or.kr/direct/index_coilwinder_kor.html
+ - English : <a href="https://solenoid.or.kr/direct_eng.php?address=https://solenoid.or.kr/openactuator/open_coil_winder_eng.htm">Open Source Coil Winder Homepage Link (English)</a><br>
+ - Korean  : <a href="https://solenoid.or.kr/direct_kor.php?address=https://solenoid.or.kr/openactuator/open_coil_winder_kor.htm">Open Source Coil Winder Homepage Link (Korean)</a>
 <br><br>
 <img src="https://www.solenoid.or.kr/openactuator/OpenCoilWinder/CoilWinder_V1.2.jpg" border="0" alt="">
